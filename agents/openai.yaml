@@ -1,0 +1,6 @@
+interface:
+  display_name: "LeadGen Framework"
+  short_description: "Reusable channel-based lead generation workflow"
+  default_prompt: "Use $leadgen-framework to design or operate a channel-based lead generation workflow."
+policy:
+  allow_implicit_invocation: true
