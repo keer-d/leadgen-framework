@@ -106,5 +106,7 @@ Turn this feedback into updated search keywords, exclusion rules, category defin
 ## References
 
 - For a concrete CFD/Forex/Broker example, read `references/cfd-example.md`.
+- To adapt the workflow to a new industry, use `templates/industry-adapter.template.md`.
+- To evaluate pilot and production quality, read `references/evaluation.md`.
+- Cross-industry synthetic examples live under `examples/`.
 - Before publishing this skill or a derived template publicly, read `references/publication-checklist.md`.
-
